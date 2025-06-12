@@ -37,7 +37,7 @@ To use this workflow in your own repository, follow these steps:
     *   Create a PR adding OS and Code vulnerability 
     *   Commit the file and push the changes. The workflow will run automatically and display vulnerabilities in the PR and in the code security tab
 
-![Example of Results](https://github.com/JennySnyk/Snyk-Results-in-Github-Security-Tab/blob/main/images/github.com_JennySnyk_Snyk-Results-in-Github-Security-Tab_security_code-scanning.png)
+![Example of Results](https://github.com/JennySnyk/Snyk-Results-in-Github-Security-Tab/blob/main/Images/github.com_JennySnyk_Snyk-Results-in-Github-Security-Tab_security.png)
 
 ## GitHub Security Tab Availability
 
